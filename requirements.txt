@@ -1,0 +1,2 @@
+googlemaps==4.6.0
+python-telegram-bot==13.11
